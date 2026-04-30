@@ -132,8 +132,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-demo-link)
-[![View Code](https://img.shields.io/badge/📂_View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://fraudshield-ai-ams.streamlit.app/)
 
 </div>
 
